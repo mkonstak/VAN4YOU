@@ -3,7 +3,9 @@
     include 'includes/header.php'; 
 ?>
 
-<main style="padding-top: 120px; padding-bottom: var(--space-l);">
+<main style="padding-top: 120px; padding-bottom: var(--space-l); overflow: hidden; position: relative;">
+    <img src="assets/Index/VWmultivan.png" alt="" class="bg-visual bg-multivan">
+    <img src="assets/Index/Karavan.png" alt="" class="bg-visual bg-karavan">
     <div class="container animate-up">
         <div style="max-width: 900px; margin: 0 auto;">
             <h1 style="font-size: 3.5rem; margin-bottom: var(--space-xs);">Pravidla <span class="text-accent">půjčovny</span></h1>

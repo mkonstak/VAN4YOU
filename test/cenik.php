@@ -3,7 +3,9 @@
     include 'includes/header.php'; 
 ?>
 
-<main style="padding-top: 120px; overflow: hidden;">
+<main style="padding-top: 120px; overflow: hidden; position: relative;">
+    <img src="assets/Index/VWmultivan.png" alt="" class="bg-visual bg-multivan">
+    <img src="assets/Index/Karavan.png" alt="" class="bg-visual bg-karavan">
     <div class="container">
         <h1 style="text-align: center; margin-bottom: var(--space-l);">Ceník <span class="text-accent">Pronájmu</span></h1>
 
