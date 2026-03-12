@@ -5,8 +5,6 @@
 ?>
 
 <main style="padding-top: 120px; overflow: hidden; position: relative;">
-    <img src="assets/Index/VWmultivan.png" alt="" class="bg-visual bg-multivan">
-    <img src="assets/Index/Karavan.png" alt="" class="bg-visual bg-karavan">
     <div class="container animate-up">
         <div style="max-width: 1000px; margin: 0 auto;">
             

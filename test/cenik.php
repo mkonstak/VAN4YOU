@@ -4,8 +4,6 @@
 ?>
 
 <main style="padding-top: 120px; overflow: hidden; position: relative;">
-    <img src="assets/Index/VWmultivan.png" alt="" class="bg-visual bg-multivan">
-    <img src="assets/Index/Karavan.png" alt="" class="bg-visual bg-karavan">
     <div class="container">
         <h1 style="text-align: center; margin-bottom: var(--space-l);">Ceník <span class="text-accent">Pronájmu</span></h1>
 
@@ -13,7 +11,7 @@
             
             <!-- Multivan Pricing -->
             <div class="glass animate-up" style="padding: var(--space-m); display: flex; flex-direction: column;">
-                <div style="height: 200px; border-radius: 12px; overflow: hidden; margin-bottom: var(--space-m); border: 1px solid var(--glass-border);">
+                <div style="aspect-ratio: 3 / 2; border-radius: 12px; overflow: hidden; margin-bottom: var(--space-m); border: 1px solid var(--glass-border);">
                     <img src="assets/Index/VWmultivan.png" alt="VW Multivan" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <h2 style="margin-bottom: var(--space-s);">VW Multivan <span class="text-accent">T6.1</span></h2>
@@ -42,7 +40,7 @@
 
             <!-- Karavan Pricing -->
             <div class="glass animate-up" style="padding: var(--space-m); display: flex; flex-direction: column; animation-delay: 0.1s;">
-                <div style="height: 200px; border-radius: 12px; overflow: hidden; margin-bottom: var(--space-m); border: 1px solid var(--glass-border);">
+                <div style="aspect-ratio: 3 / 2; border-radius: 12px; overflow: hidden; margin-bottom: var(--space-m); border: 1px solid var(--glass-border);">
                     <img src="assets/Index/Karavan.png" alt="Karavan Hobby" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <h2 style="margin-bottom: var(--space-s);">Karavan <span class="text-accent">Hobby Premium 495 UL</span></h2>
